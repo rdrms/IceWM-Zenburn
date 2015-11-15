@@ -1,1 +1,1 @@
-== Dark theme for IceWM
+### Dark theme for IceWM
