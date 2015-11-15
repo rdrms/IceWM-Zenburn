@@ -1,0 +1,192 @@
+ThemeAuthor="Mario Bedna Chorvath"
+ThemeDescription="LegacyIce-Dark"
+
+Look=gtk
+
+RolloverButtonsSupported=1 # 0 / 1
+
+# ---------------------------------------------------------------------------
+# Titlebar
+# ---------------------------------------------------------------------------
+TitleButtonsSupported="dhimrsx"
+# TitleButtonsLeft="d"
+
+# ---------------------------------------------------------------------------
+# Window
+# ---------------------------------------------------------------------------
+ColorNormalButtonBorder="#2b2a29"
+ColorNormalTitleBar="#2b2a29"
+ColorNormalTitleBarText="#A4A4A4"
+ColorNormalTitleButton="#252525"
+ColorNormalBorder="#252525"
+
+ColorActiveBorder="#111111"
+ColorActiveTitleBar="#111111"
+ColorActiveTitleBarText="#F5F5F5"
+
+TitleBarHeight=20 # 0-128
+TitleBarHorzOffset=10 # -128-128
+
+BorderSizeX=3 # 0-128
+BorderSizeY=3 # 0-128
+CornerSizeX=0 # 0-64
+CornerSizeY=0 # 0-64
+
+DlgBorderSizeX=3 # 0-128
+DlgBorderSizeY=3 # 0-128
+
+ShapesProtectClientWindow=0 # 0 / 1
+
+# ---------------------------------------------------------------------------
+#	Menu
+# ---------------------------------------------------------------------------
+ColorNormalMenu="#303030"
+ColorActiveMenuItem="#252525"
+ColorNormalMenuItemText="#a4a4a4"
+ColorActiveMenuItemText="#F5F5F5"
+ColorDisabledMenuItemText="#E0B000"
+
+# ---------------------------------------------------------------------------
+#	Move status
+# ---------------------------------------------------------------------------
+ColorMoveSizeStatus="#252525"
+ColorMoveSizeStatusText="#00EE00"
+
+# ---------------------------------------------------------------------------
+# Dialog Window and buttons
+# ---------------------------------------------------------------------------
+ColorDialog="#999999"
+ColorNormalButton="#252525"
+ColorNormalButtonText="#F5F5F5"
+
+# ---------------------------------------------------------------------------
+# Windows list
+# ---------------------------------------------------------------------------
+
+ColorListBox="#252525"
+ColorListBoxText="#A4A4A4"
+ColorListBoxSelection="#111111"
+ColorListBoxSelectionText="#F5F5F5"
+
+# ---------------------------------------------------------------------------
+# Quick switch
+# ---------------------------------------------------------------------------
+ColorQuickSwitch="#252525"
+ColorQuickSwitchText="#A4A4A4"
+ColorQuickSwitchActive="#111111"
+
+# ---------------------------------------------------------------------------
+# Clock
+# ---------------------------------------------------------------------------
+ColorClock="#252525"
+ColorClockText="#A4A4A4"
+
+# ---------------------------------------------------------------------------
+# CPU status
+# ---------------------------------------------------------------------------
+ColorCPUStatusUser="#FF8C00"
+ColorCPUStatusSystem="#FF0000"
+ColorCPUStatusNice="#0000FF"
+ColorCPUStatusIdle="#252525"
+
+# ---------------------------------------------------------------------------
+# Network status
+# ---------------------------------------------------------------------------
+ColorNetSend="#FF0000"
+ColorNetReceive="#00FF00"
+ColorNetIdle="#252525"
+
+# ---------------------------------------------------------------------------
+# Taskbar
+# ---------------------------------------------------------------------------
+
+# ToolTip
+ColorToolTip="#000000"
+ColorToolTipText="#00EE00"
+
+ColorInput="#BAA89A"
+ColorInputText="#000000"
+ColorInputSelection="#556688"
+ColorInputSelectionText="#ffffff"
+
+# Workspaces
+ColorNormalWorkspaceButton="#252525"
+ColorNormalWorkspaceButtonText="#A4A4A4"
+ColorActiveWorkspaceButton="#111111"
+ColorActiveWorkspaceButtonText="#A4A4A4"
+
+# Taskbar
+ColorDefaultTaskBar="#252525"
+ColorNormalTaskBarApp="#252525"
+ColorNormalTaskBarAppText="#A4A4A4"
+ColorMinimizedTaskBarApp="#252525"
+ColorMinimizedTaskBarAppText="#A4A4A4"
+ColorActiveTaskBarApp="#111111"
+ColorActiveTaskBarAppText="#C0C0C0"
+
+# ---------------------------------------------------------------------------
+# Font Specifications
+# ---------------------------------------------------------------------------
+
+#TitleFontName="-*-sans-medium-r-*-*-10-*-*-*-*-*-*-*"
+TitleFontNameXft="sans:size=10:normal"
+
+#MenuFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+MenuFontNameXft="sans:size=10:medium"
+
+#NormalTaskBarFontName="-*-sans-bold-r-normal-*-7-*-*-p-*--*-*"
+NormalTaskBarFontNameXft="sans:size=10:medium"
+
+#ActiveTaskBarFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+ActiveTaskBarFontNameXft="sans:size=10:bold"
+
+#NormalButtonFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
+NormalButtonFontNameXft="sans:size=9:medium"
+
+#ActiveButtonFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+ActiveButtonFontNameXft="sans:size=9:bold"
+
+#LabelFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
+LabelFontNameXft="sans:size=12:bold"
+
+#ToolTipFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
+ToolTipFontNameXft="sans:size=10:medium"
+
+#ClockFontName="-*-monospace-medium-r-normal-*-14-*-*-p-*--*-*"
+ClockFontNameXft="sans:size=12:medium"
+
+#ApmFontName="-*-monospace-medium-r-normal-*-14-*-*-p-*--*-*"
+ApmFontNameXft="sans:size=10:medium"
+
+#InputFontName="-*-monospace-medium-r-normal-*-14-*-*-p-*--*-*"
+InputFontNameXft="sans:size=12:medium"
+
+#moveSizeFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+moveSizeFontNameXft="sans:size=12:bold"
+
+#QuickSwitchFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+QuickSwitchFontNameXft="sans:size=12:bold"
+
+#ListBoxFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+ListBoxFontNameXft="sans:size=10:medium"
+
+#StatusFontName="-sans-bold-r-normal-*-14-*-*-p-*--*-*"
+StatusFontNameXft="sans:size=12:bold"
+
+#ToolButtonFontName="-*-monospace-bold-r-normal-*-14-*-*-p-*--*-*"
+ToolButtonFontNameXft="monospace:size=10:bold"
+
+#FxFontName="-*-monospace-bold-r-normal-*-14-*-*-p-*--*-*"
+FxFontNameXft="monospace:size=10:bold"
+
+#MinimizedWindowFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
+MinimizedWindowFontNameXft="sans:size=10:medium"
+
+# ---------------------------------------------------------------------------
+# Background
+# ---------------------------------------------------------------------------
+DesktopBackgroundColor = #000000
+DesktopBackgroundCenter = 1
+DesktopBackgroundScaled = 1 
+DesktopBackgroundImage = 'ku_2.png'
+
