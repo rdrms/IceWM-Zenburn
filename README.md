@@ -9,3 +9,8 @@ Special thanks to KERNELULTRAS/IceWM-LegacyIce-DarkTheme, which provided an exce
 
 Might be a learning curve to use this theme, the buttons are just flat colours, they go like this: App Menu - window title - rollup,minimize,maximize,close
 All buttons except the app menu and close button are blended into the background, but are still clickable.
+
+
+To install, clone the git repository and place the folder in ~/.icewm/themes - create the directory if it doesn't exist.  Then select the theme from the IceWM menu.
+
+
