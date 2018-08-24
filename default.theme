@@ -1,7 +1,8 @@
-ThemeAuthor="Mario Bedna Chorvath"
-ThemeDescription="LegacyIce-Dark"
+ThemeAuthor="Ryan Reamsbottom"
+ThemeDescription="Zenburn"
 
-Look=gtk
+Look=flat
+TrayDrawBevel=0
 
 RolloverButtonsSupported=1 # 0 / 1
 
@@ -15,14 +16,15 @@ TitleButtonsSupported="dhimrsx"
 # Window
 # ---------------------------------------------------------------------------
 ColorNormalButtonBorder="#2b2a29"
-ColorNormalTitleBar="#2b2a29"
-ColorNormalTitleBarText="#A4A4A4"
-ColorNormalTitleButton="#252525"
-ColorNormalBorder="#252525"
+ColorNormalTitleBar="#3f3f3f"
+ColorNormalTitleBarText="#dcdccc"
+ColorNormalTitleButton="#496eb0"
+ColorNormalBorder="#3f3f3f"
 
-ColorActiveBorder="#111111"
-ColorActiveTitleBar="#111111"
-ColorActiveTitleBarText="#F5F5F5"
+ColorActiveBorder="#dcdccc"
+ColorActiveTitleBar="#dcdccc"
+ColorActiveTitleBarText="#3f3f3f"
+ColorToolButton=""
 
 TitleBarHeight=20 # 0-128
 TitleBarHorzOffset=10 # -128-128
@@ -40,46 +42,46 @@ ShapesProtectClientWindow=0 # 0 / 1
 # ---------------------------------------------------------------------------
 #	Menu
 # ---------------------------------------------------------------------------
-ColorNormalMenu="#303030"
-ColorActiveMenuItem="#252525"
-ColorNormalMenuItemText="#a4a4a4"
-ColorActiveMenuItemText="#F5F5F5"
+ColorNormalMenu="#3f3f3f"
+ColorActiveMenuItem="#dcdccc"
+ColorNormalMenuItemText="#dcdccc"
+ColorActiveMenuItemText="#3f3f3f"
 ColorDisabledMenuItemText="#E0B000"
 
 # ---------------------------------------------------------------------------
 #	Move status
 # ---------------------------------------------------------------------------
-ColorMoveSizeStatus="#252525"
-ColorMoveSizeStatusText="#00EE00"
+ColorMoveSizeStatus="#3f3f3f"
+ColorMoveSizeStatusText="#44a347"
 
 # ---------------------------------------------------------------------------
 # Dialog Window and buttons
 # ---------------------------------------------------------------------------
-ColorDialog="#999999"
-ColorNormalButton="#252525"
-ColorNormalButtonText="#F5F5F5"
+ColorDialog="#3f3f3f"
+ColorNormalButton="#3f3f3f"
+ColorNormalButtonText="#dcdccc"
 
 # ---------------------------------------------------------------------------
 # Windows list
 # ---------------------------------------------------------------------------
 
-ColorListBox="#252525"
-ColorListBoxText="#A4A4A4"
-ColorListBoxSelection="#111111"
-ColorListBoxSelectionText="#F5F5F5"
+ColorListBox="#3f3f3f"
+ColorListBoxText="#dcdccc"
+ColorListBoxSelection="#496eb0"
+ColorListBoxSelectionText="#3f3f3f"
 
 # ---------------------------------------------------------------------------
 # Quick switch
 # ---------------------------------------------------------------------------
-ColorQuickSwitch="#252525"
-ColorQuickSwitchText="#A4A4A4"
-ColorQuickSwitchActive="#111111"
+ColorQuickSwitch="#3f3f3f"
+ColorQuickSwitchText="#dcdccc"
+ColorQuickSwitchActive="#496eb0"
 
 # ---------------------------------------------------------------------------
 # Clock
 # ---------------------------------------------------------------------------
-ColorClock="#252525"
-ColorClockText="#A4A4A4"
+ColorClock="#3f3f3f"
+ColorClockText="#dcdcdc"
 
 # ---------------------------------------------------------------------------
 # CPU status
@@ -92,101 +94,101 @@ ColorCPUStatusIdle="#252525"
 # ---------------------------------------------------------------------------
 # Network status
 # ---------------------------------------------------------------------------
-ColorNetSend="#FF0000"
-ColorNetReceive="#00FF00"
-ColorNetIdle="#252525"
+ColorNetSend="#b76262"
+ColorNetReceive="#5f9c5f"
+ColorNetIdle="#3f3f3f"
 
 # ---------------------------------------------------------------------------
 # Taskbar
 # ---------------------------------------------------------------------------
 
 # ToolTip
-ColorToolTip="#000000"
-ColorToolTipText="#00EE00"
+ColorToolTip="#3f3f3f"
+ColorToolTipText="#dcdccc"
 
-ColorInput="#BAA89A"
-ColorInputText="#000000"
-ColorInputSelection="#556688"
-ColorInputSelectionText="#ffffff"
+ColorInput="#3f3f3f"
+ColorInputText="#dcdccc"
+ColorInputSelection="#496eb0"
+ColorInputSelectionText="#dcdccc"
 
 # Workspaces
-ColorNormalWorkspaceButton="#252525"
-ColorNormalWorkspaceButtonText="#A4A4A4"
-ColorActiveWorkspaceButton="#111111"
-ColorActiveWorkspaceButtonText="#A4A4A4"
+ColorNormalWorkspaceButton="#3f3f3f"
+ColorNormalWorkspaceButtonText="#dcdccc"
+ColorActiveWorkspaceButton="#496eb0"
+ColorActiveWorkspaceButtonText="#3f3f3f"
 
 # Taskbar
-ColorDefaultTaskBar="#252525"
-ColorNormalTaskBarApp="#252525"
-ColorNormalTaskBarAppText="#A4A4A4"
-ColorMinimizedTaskBarApp="#252525"
-ColorMinimizedTaskBarAppText="#A4A4A4"
-ColorActiveTaskBarApp="#111111"
-ColorActiveTaskBarAppText="#C0C0C0"
+ColorDefaultTaskBar="#3f3f3f"
+ColorNormalTaskBarApp="#3f3f3f"
+ColorNormalTaskBarAppText="#dcdccc"
+ColorMinimizedTaskBarApp="#3f3f3f"
+ColorMinimizedTaskBarAppText="696969"
+ColorActiveTaskBarApp="#496eb0"
+ColorActiveTaskBarAppText="#dcdccc"
 
 # ---------------------------------------------------------------------------
 # Font Specifications
 # ---------------------------------------------------------------------------
 
 #TitleFontName="-*-sans-medium-r-*-*-10-*-*-*-*-*-*-*"
-TitleFontNameXft="sans:size=10:normal"
+TitleFontNameXft="Noto Sans:size=10:normal"
 
 #MenuFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-MenuFontNameXft="sans:size=10:medium"
+MenuFontNameXft="Noto Sans:size=10:medium"
 
 #NormalTaskBarFontName="-*-sans-bold-r-normal-*-7-*-*-p-*--*-*"
-NormalTaskBarFontNameXft="sans:size=10:medium"
+NormalTaskBarFontNameXft="Noto Sans:size=10:medium"
 
 #ActiveTaskBarFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-ActiveTaskBarFontNameXft="sans:size=10:bold"
+ActiveTaskBarFontNameXft="Noto Sans:size=10:bold"
 
 #NormalButtonFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
-NormalButtonFontNameXft="sans:size=9:medium"
+NormalButtonFontNameXft="Noto Sans:size=9:medium"
 
 #ActiveButtonFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-ActiveButtonFontNameXft="sans:size=9:bold"
+ActiveButtonFontNameXft="Noto Sans:size=9:bold"
 
 #LabelFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
-LabelFontNameXft="sans:size=12:bold"
+LabelFontNameXft="Noto Sans:size=12:bold"
 
 #ToolTipFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
-ToolTipFontNameXft="sans:size=10:medium"
+ToolTipFontNameXft="Noto Sans:size=10:medium"
 
 #ClockFontName="-*-monospace-medium-r-normal-*-14-*-*-p-*--*-*"
-ClockFontNameXft="sans:size=12:medium"
+ClockFontNameXft="Noto Sans:size=12:medium"
 
 #ApmFontName="-*-monospace-medium-r-normal-*-14-*-*-p-*--*-*"
-ApmFontNameXft="sans:size=10:medium"
+ApmFontNameXft="Menlo LG S for Powerline Regular:size=10"
 
 #InputFontName="-*-monospace-medium-r-normal-*-14-*-*-p-*--*-*"
-InputFontNameXft="sans:size=12:medium"
+InputFontNameXft="Menlo LG S for Powerline Regular:size=12"
 
 #moveSizeFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-moveSizeFontNameXft="sans:size=12:bold"
+moveSizeFontNameXft="Noto Sans:size=12:bold"
 
 #QuickSwitchFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-QuickSwitchFontNameXft="sans:size=12:bold"
+QuickSwitchFontNameXft="Noto Sans:size=12:bold"
 
 #ListBoxFontName="-*-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-ListBoxFontNameXft="sans:size=10:medium"
+ListBoxFontNameXft="Noto Sans:size=10:medium"
 
 #StatusFontName="-sans-bold-r-normal-*-14-*-*-p-*--*-*"
-StatusFontNameXft="sans:size=12:bold"
+StatusFontNameXft="Noto Sans:size=12:bold"
 
 #ToolButtonFontName="-*-monospace-bold-r-normal-*-14-*-*-p-*--*-*"
-ToolButtonFontNameXft="monospace:size=10:bold"
+ToolButtonFontNameXft="Menlo LG S for Powerline Bold:size=10"
 
 #FxFontName="-*-monospace-bold-r-normal-*-14-*-*-p-*--*-*"
-FxFontNameXft="monospace:size=10:bold"
+FxFontNameXft="Menlo LG S for Powerline Bold:size=10"
 
 #MinimizedWindowFontName="-*-sans-medium-r-normal-*-14-*-*-p-*--*-*"
-MinimizedWindowFontNameXft="sans:size=10:medium"
+MinimizedWindowFontNameXft="Noto Sans:size=10:medium"
 
 # ---------------------------------------------------------------------------
 # Background
 # ---------------------------------------------------------------------------
-DesktopBackgroundColor = #000000
+DesktopBackgroundColor = #3f3f3f
 DesktopBackgroundCenter = 1
 DesktopBackgroundScaled = 1 
-DesktopBackgroundImage = 'ku_2.png'
+#DesktopBackgroundImage = 'ku_2.png'
 
