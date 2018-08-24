@@ -29,8 +29,8 @@ ColorToolButton=""
 TitleBarHeight=20 # 0-128
 TitleBarHorzOffset=10 # -128-128
 
-BorderSizeX=3 # 0-128
-BorderSizeY=3 # 0-128
+BorderSizeX=0 # 0-128
+BorderSizeY=0 # 0-128
 CornerSizeX=0 # 0-64
 CornerSizeY=0 # 0-64
 
