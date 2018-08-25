@@ -108,13 +108,13 @@ ColorToolTipText="#dcdccc"
 
 ColorInput="#3f3f3f"
 ColorInputText="#dcdccc"
-ColorInputSelection="#496eb0"
+ColorInputSelection="#8faf9f"
 ColorInputSelectionText="#dcdccc"
 
 # Workspaces
 ColorNormalWorkspaceButton="#3f3f3f"
 ColorNormalWorkspaceButtonText="#dcdccc"
-ColorActiveWorkspaceButton="#496eb0"
+ColorActiveWorkspaceButton="#8faf9f"
 ColorActiveWorkspaceButtonText="#3f3f3f"
 
 # Taskbar
@@ -123,8 +123,8 @@ ColorNormalTaskBarApp="#3f3f3f"
 ColorNormalTaskBarAppText="#dcdccc"
 ColorMinimizedTaskBarApp="#3f3f3f"
 ColorMinimizedTaskBarAppText="696969"
-ColorActiveTaskBarApp="#496eb0"
-ColorActiveTaskBarAppText="#dcdccc"
+ColorActiveTaskBarApp="#8cd0d3"
+ColorActiveTaskBarAppText="#3f3f3f"
 
 # ---------------------------------------------------------------------------
 # Font Specifications
