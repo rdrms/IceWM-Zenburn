@@ -57,7 +57,7 @@ ColorDisabledMenuItemText="#E0B000"
 #	Move status
 # ---------------------------------------------------------------------------
 ColorMoveSizeStatus="#3f3f3f"
-ColorMoveSizeStatusText="#44a347"
+ColorMoveSizeStatusText="#dcdccc"
 
 # ---------------------------------------------------------------------------
 # Dialog Window and buttons
