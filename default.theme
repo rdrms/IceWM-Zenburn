@@ -18,7 +18,7 @@ TitleButtonsSupported="dhimrsx"
 ColorNormalButtonBorder="#2b2a29"
 ColorNormalTitleBar="#3f3f3f"
 ColorNormalTitleBarText="#dcdccc"
-ColorNormalTitleButton="#496eb0"
+ColorNormalTitleButton="#8cd0d3"
 ColorNormalBorder="#3f3f3f"
 
 ColorActiveBorder="#dcdccc"
@@ -29,10 +29,15 @@ ColorToolButton=""
 TitleBarHeight=20 # 0-128
 TitleBarHorzOffset=10 # -128-128
 
-BorderSizeX=0 # 0-128
-BorderSizeY=0 # 0-128
-CornerSizeX=0 # 0-64
-CornerSizeY=0 # 0-64
+BorderSizeX=5 # 0-128
+BorderSizeY=5 # 0-128
+CornerSizeX=10 # 0-64
+CornerSizeY=10 # 0-64
+
+#BorderSizeX=0 # 0-128
+#BorderSizeY=0 # 0-128
+#CornerSizeX=0 # 0-64
+#CornerSizeY=0 # 0-64
 
 DlgBorderSizeX=3 # 0-128
 DlgBorderSizeY=3 # 0-128
